@@ -1,0 +1,81 @@
+
+.navbar{
+    background-color: #021443;
+    font-family: sans-serif;
+}
+.socio svg:hover{
+    width: 2rem;
+    height: 2rem;
+}
+footer{
+    background-color: #021443;
+    font-family: sans-serif;
+    
+}
+#accroche:hover{
+    background-color:white ;
+    font-family: sans-serif;
+    color:#021443;
+}
+#accroche,.card a{
+        font-family: sans-serif;
+        color: #021443;
+        
+}
+
+.card{
+    font-family: sans-serif;
+    color: #021443;
+}
+
+.card a:hover{
+    background-color:whitesmoke;
+    color: #021443;
+
+}
+
+.card a{
+    background-color: #021443;
+    color:whitesmoke;
+
+}
+
+#langues{
+    font-family: sans-serif;
+    color: #021443;
+    
+}
+
+#mobilite {
+    font-family: sans-serif;
+    color: #021443;
+
+}
+
+.form-check-input:checked{
+    background-color: #021443;
+}
+
+#headingOne button,#headingTwo button,#headingThree button{
+    font-family: sans-serif;
+    color: #021443;
+    font-size: 1.1rem;
+    
+}
+
+#headingOne button:hover,#headingTwo button:hover,#headingThree button:hover{
+    background-color:#F7F3F4;
+    
+}
+
+embed{
+    width: 30rem;
+    height: 30rem;
+}
+
+
+
+
+
+
+
